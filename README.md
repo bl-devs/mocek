@@ -1,2 +1,4 @@
-# mocek
-jebać mocka. Chronione przez licencję GNU (Generalnie Najebany Użytkownik)
+# Mikołaj "Mondonno" Mocek
+
+Kody mocka. 
+Chronione przez licencję GNU (Generalnie Najebany Użytkownik)
